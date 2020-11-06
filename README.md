@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently focused on learning patterns, principles and practices of Domain-Driven Design
-- 💬 Ask me about whatever you need
-
 - 😄 Pronouns: he/him
+
+![Pablocom's github stats](https://github-readme-stats.vercel.app/api?username=pablocom&show_icons=true&hide_border=true)
 
 <!--
 **pablocom/pablocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
