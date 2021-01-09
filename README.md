@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently focused on learning patterns, principles and practices of Domain-Driven Design
+I'm Pablo and I'm Software Engineer. I'm very interested in the sector of distributed multimedia systems. I consider myself a technology enthusiast, very active and always willing to learn. Good team player with a can-do attitude. Always looking to learn something new. 
+
 - 😄 Pronouns: he/him
 
 ![Pablocom's github stats](https://github-readme-stats.vercel.app/api?username=pablocom&show_icons=true&hide_border=true)
