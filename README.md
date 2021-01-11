@@ -3,7 +3,7 @@
 I'm Pablo and I'm Software Engineer. I'm very interested in the sector of distributed multimedia systems. I consider myself a technology enthusiast, very active and always willing to learn.
 
 - Pronouns: he/him
-- Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳
+- Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳 - ✈
 
 <!--
 ![Pablocom's github stats](https://github-readme-stats.vercel.app/api?username=pablocom&show_icons=true&hide_border=true)
