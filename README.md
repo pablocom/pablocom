@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 I'm Pablo and I'm Software Engineer. I'm very interested in distributed systems. I consider myself a technology enthusiast, very active and always willing to learn.
 
