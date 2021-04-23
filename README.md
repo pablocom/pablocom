@@ -21,7 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocom&layout=compact&hide=html&theme=dark" alt="pablocom" />
-<div/>
