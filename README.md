@@ -5,7 +5,7 @@ I'm Pablo and I'm Software Engineer. I'm very interested in distributed systems 
 - Pronouns: he/him
 - Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳 - ✈
 
-![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocom&hide=css,c++,javascript,html&theme=tokyonight)
+![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocom&hide=java,c%2B%2B,css,javascript,html&theme=tokyonight)
 &emsp;
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablocom&theme=tokyonight)
 
