@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-I'm Pablo and I'm Software Engineer. I'm very interested in distributed systems. I consider myself a technology enthusiast, very active and always willing to learn.
+I'm Pablo and I'm Software Engineer. I'm very interested in distributed systems design. I consider myself a technology enthusiast, very active and always willing to learn.
 
 - Pronouns: he/him
 - Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳 - ✈
