@@ -1,23 +1,9 @@
-### Hi folks 👋
+# Hey!
 
-I'm a technology enthusiast, very active and always willing to learn.
+I'm a technology enthusiast, very active and always willing to learn something new. I'm always excited to be wrong, and overjoyed to delete my own code.
 
-- Pronouns: he/him
-- Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳 - 🌍
+I'm happy working at Schroders, mostly focused in CI right now. You'll find me using C# and Typescript. I'm specially interested in distributed systems design, object-oriented programming and performance.
 
-<!--
-![Pablocom's github stats](https://github-readme-stats.vercel.app/api?username=pablocom&show_icons=true&hide_border=true)
+Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳 - 🌍
 
-
-**pablocom/pablocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Have a nice day!
