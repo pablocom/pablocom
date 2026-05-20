@@ -4,4 +4,4 @@ I'm a technology enthusiast, very active and always willing to learn something n
 
 Non engineering stuff I do: 🎸 - 🎹 - 🎶 - ⚽ - 🌱 - 📚 - 🍳 - 🌍
 
-## Have a nice day!
+**Have a nice day! :)**
